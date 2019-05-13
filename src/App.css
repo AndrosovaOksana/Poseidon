@@ -9,12 +9,11 @@ header {
 
 }
 .first_column, .fourth_column {
-    height: 80vh;
+    height: 88vh;
 }
 .second_column, .third_column {
-    height: 39.2vh;
+    height: 43.4vh;
 }
-
 .p3 {
     padding: 0px 5px !important;
 }
