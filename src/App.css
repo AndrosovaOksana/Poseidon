@@ -23,3 +23,19 @@ div.second_column {
 div.third_column {
     margin-top: 7px;
 }
+
+.block-indicators {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.indicator {
+    border: 1px solid black;
+    background: #007bff1c;
+    margin: 10px 5px 5px;
+    padding: 0px 3px 3px 3px;
+    text-align: center;
+}
+.indicator h4 {
+    text-align: center;
+}
